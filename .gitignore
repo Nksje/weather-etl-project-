@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Environment
+.env
+.env.example.bak
+
+# IDE
+.idea/
+.vscode/
+
+# MySQL data
+mysqldata/
+
+# Alembic cache
+alembic/__pycache__/
+alembic/versions/__pycache__/
